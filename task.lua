@@ -1,3 +1,6 @@
+-- Instruction, Please enter the function in this format 'div(int, int)' in the console by the left
+
+
 function div(a, b)
 	ans = a/b 
 	-- convert ans to string
@@ -37,6 +40,6 @@ function string_split(text, delim)
     return result
 end
 
-
-div(10, 2)
+--example:
+---div(10, 2)
 
